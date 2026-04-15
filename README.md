@@ -142,5 +142,3 @@ IoT & Machine Learning Enthusiast
 
 ---
 
-
-MIT License
